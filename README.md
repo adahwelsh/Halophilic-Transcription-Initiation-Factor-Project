@@ -21,8 +21,26 @@ A list of all Halophiles in this project and their number of TFB and TBP protein
 * `TBP Number` : Number of TATA-Box Binding Protein (TBP) homologs found in an organism's genome
 
 ## Halobacteriales_TFB_db_v1
-
-
+Combined list of all TFB and TBP protein sequences and information for halobacteriales species. All acquired from Uniprot 10/8/26 (tfbs) and 10/9/26 (tbps)
+* `Entry` : Name of Entry
+* `Reviewed` : Has this protein seqeunce been reviewed?
+* `Entry.Name` : Entry and its Gene identifier - Unique identifier for each protein
+* `Protein.names` : Full name of protein
+* `Gene.Names` : Gene name identifiers - includes standardized name and locus identifier
+* `Organism` : Whole Organism Name (includes Genus sp. and strain when relevant)
+* `Length` : Amino Acid Length of Protein
+* `Gene.Ontology..biological.process.` : Standardized protein description - broader biological goals, modules, or processes protein is involved in
+* `Organism..ID.` : ID number of protein for Uniprot
+* `Sequence` : Full amino acid sequence of protein
+* `Gene.Ontology..molecular.function.` : Standardized protein description: specific biochemical or modular acitvity of protein
+* `Gene.Names..ordered.locus.` : Locus identier
+* `RefSeq` : RefSeq entry code
+* `Gene.Ontology.IDs` : Gene Ontology ID database reference number
+* `Gene.Names..primary.` : Primary Gene Names - names protein type, sometimes is more specific to homolog
+* `NCBIfam` : NCBI protein family and domain database reference number
+* `GeneID` : NCBI Gene ID database reference number
+* `organism_name` : Organism name as Genus sp. - NO STRAIN INFO
+* 
 ## TRIAL TFB Database Metadata - OLD
 * `Organism Cell Line` : Specific Organismal Cell line genome used for phylogenetic data and protein amount information
 * `Organism` : Name of the organism - used as a general organism term for the data - you will notice that organisms are not repeated; individual cell line data for each organism was averaged to get TBP and TFB number data
