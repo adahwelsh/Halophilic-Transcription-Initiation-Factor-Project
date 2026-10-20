@@ -1,189 +1,279 @@
-"","organism_cell_line","organism","TFB_num","TBP_num"
-"1","Haloferax volcanii DS2","Haloferax volcanii",12,6
-"2","Halobacterium salinarum","Halobacterium salinarum",7,6
-"3","Haloarcula hispanica ATCC 33960","Haloarcula hispanica",6,1
-"4","Haloferax mediterranei ATCC 33500","Haloferax mediterranei",11,4
-"5","Haloarcula argentinensis","Haloarcula argentinensis",6,2
-"6","Halogeometricum borinquense DSM 11551","Halogeometricum borinquense",9,3
-"7","Halorubrum lacusprofundi ATCC 49239","Halorubrum lacusprofundi",8,4
-"8","Natrinema thermotolerans","Natrinema thermotolerans",NA,NA
-"9","Halalkalicoccus jeotgali B3","Halalkalicoccus jeotgali",6,1
-"10","Haloarcula marismortui ATCC 43049","Haloarcula marismortui",8,1
-"11","Halomicrobium mukohataei DSM 12286","Halomicrobium mukohataei",4,1
-"12","Natronobacterium gregoryi SP2","Natronobacterium gregoryi",13,3
-"13","Natrinema longum","Natrinema longum",NA,NA
-"14","Natronomonas gomsonensis","Natronomonas gomsonensis",NA,NA
-"15","Haloplanus aerogenes","Haloplanus aerogenes",NA,NA
-"16","Halapricum salinum","Halapricum salinum",NA,NA
-"17","Natronorubrum daqingense","Natronorubrum daqingense",NA,NA
-"18","Halovenus rubra","Halovenus rubra",NA,NA
-"19","Halohasta litchfieldiae","Halohasta litchfieldiae",NA,NA
-"20","Halobacterium noricense","Halobacterium noricense",NA,NA
-"21","Halorhabdus tiamatea SARL4B","Halorhabdus tiamatea",6,3
-"22","Halocatena halophila","Halocatena halophila",NA,NA
-"23","Halodesulfurarchaeum formicicum","Halodesulfurarchaeum formicicum",NA,NA
-"24","Natronobacterium lacisalsi AJ5","Natronobacterium lacisalsi",NA,NA
-"25","Natrinema pellirubrum DSM 15624","Natrinema pellirubrum",13,5
-"26","Natrialba magadii ATCC 43099","Natrialba magadii",7,1
-"27","Natrialba aegyptia","Natrialba aegyptia",9,2
-"28","Halococcus salifodinae","Halococcus salifodinae",7,2
-"29","Natronorubrum bangense","Natronorubrum bangense",16,3
-"30","Halococcus morrhuae DSM 1307","Halococcus morrhuae",4,2
-"31","Haloterrigena turkmenica DSM 5511","Haloterrigena turkmenica",5,1
-"32","Natrinema halophilum","Natrinema halophilum",NA,NA
-"33","Natrarchaeobaculum sulfurireducens","Natrarchaeobaculum sulfurireducens",NA,NA
-"34","Haloplanus salinarum","Haloplanus salinarum",NA,NA
-"35","Halococcus dombrowskii","Halococcus dombrowskii",NA,NA
-"36","Halobacterium hubeiense","Halobacterium hubeiense",NA,NA
-"37","Salarchaeum japonicum","Salarchaeum japonicum",NA,NA
-"38","Halanaeroarchaeum sulfurireducens","Halanaeroarchaeum sulfurireducens",NA,NA
-"39","Natronococcus occultus SP4","Natronococcus occultus",9,3
-"40","Halopiger xanaduensis SH-6","Halopiger xanaduensis",7,1
-"41","Halovivax ruber XH-70","Halovivax ruber",4,2
-"42","Halorhabdus utahensis DSM 12940","Halorhabdus utahensis",6,2
-"43","Natronomonas moolapensis 8.8.11","Natronomonas moolapensis",NA,NA
-"44","Halostagnicola larsenii XH-48","Halostagnicola larsenii",6,2
-"45","Natronomonas pharaonis DSM 2160","Natronomonas pharaonis",7,1
-"46","Halosimplex pelagicum","Halosimplex pelagicum",NA,NA
-"47","Halosolutus halophilus","Halosolutus halophilus",NA,NA
-"48","Halosimplex aquaticum","Halosimplex aquaticum",NA,NA
-"49","Natronorubrum halobium","Natronorubrum halobium",NA,NA
-"50","Haloglomus litoreum","Haloglomus litoreum",NA,NA
-"51","Salinirubellus litoreus","Salinirubellus litoreus",NA,NA
-"52","Halosimplex rarum","Halosimplex rarum",NA,NA
-"53","Halosimplex rubrum","Halosimplex rubrum",NA,NA
-"54","Salinigranum rubrum","Salinigranum rubrum",NA,NA
-"55","Haloglomus salinum","Haloglomus salinum",NA,NA
-"56","Natrinema salinisoli","Natrinema salinisoli",NA,NA
-"57","Halovalidus salilacus","Halovalidus salilacus",NA,NA
-"58","Haloglomus halophilum","Haloglomus halophilum",NA,NA
-"59","Halosimplex litoreum","Halosimplex litoreum",NA,NA
-"60","Natronococcus wangiae","Natronococcus wangiae",NA,NA
-"61","Salinirubellus salinus","Salinirubellus salinus",NA,NA
-"62","Halomontanus rarus","Halomontanus rarus",NA,NA
-"63","Natronobeatus ordinarius","Natronobeatus ordinarius",NA,NA
-"64","Halorarum salinum","Halorarum salinum",NA,NA
-"65","Natronosalvus caseinilyticus","Natronosalvus caseinilyticus",NA,NA
-"66","Salinigranum marinum","Salinigranum marinum",NA,NA
-"67","Halorarius litoreus","Halorarius litoreus",NA,NA
-"68","Natronococcus zhouii","Natronococcus zhouii",NA,NA
-"69","Halorussus vallis","Halorussus vallis",NA,NA
-"70","Natrinema caseinilyticum","Natrinema caseinilyticum",NA,NA
-"71","Salinibaculum marinum","Salinibaculum marinum",NA,NA
-"72","Natrarchaeobaculum aegyptiacum","Natrarchaeobaculum aegyptiacum",NA,NA
-"73","Halosolutus gelatinilyticus","Halosolutus gelatinilyticus",NA,NA
-"74","Halovivax cerinus","Halovivax cerinus",NA,NA
-"75","Halovivax limisalsi","Halovivax limisalsi",NA,NA
-"76","Natronomonas marina","Natronomonas marina",NA,NA
-"77","Haloterrigena salinisoli","Haloterrigena salinisoli",NA,NA
-"78","Natronosalvus vescus","Natronosalvus vescus",NA,NA
-"79","Natronobiforma cellulositropha","Natronobiforma cellulositropha",NA,NA
-"80","Haloterrigena alkaliphila","Haloterrigena alkaliphila",NA,NA
-"81","Haladaptatus pallidirubidus","Haladaptatus pallidirubidus",NA,NA
-"82","Natronosalvus rutilus","Natronosalvus rutilus",NA,NA
-"83","Natrinema zhouii","Natrinema zhouii",NA,NA
-"84","Natrinema marinum","Natrinema marinum",NA,NA
-"85","Natronorarus salvus","Natronorarus salvus",NA,NA
-"86","Natronomonas salina","Natronomonas salina",NA,NA
-"87","Halorarius halobius","Halorarius halobius",NA,NA
-"88","Halobellus marinus","Halobellus marinus",NA,NA
-"89","Halovivax gelatinilyticus","Halovivax gelatinilyticus",NA,NA
-"90","Halobium salinum","Halobium salinum",NA,NA
-"91","Halorarum halophilum","Halorarum halophilum",NA,NA
-"92","Halorientalis marina","Halorientalis marina",NA,NA
-"93","Halorussus gelatinilyticus","Halorussus gelatinilyticus",NA,NA
-"94","Natrinema gelatinilyticum","Natrinema gelatinilyticum",NA,NA
-"95","Natribaculum luteum","Natribaculum luteum",NA,NA
-"96","Halorussus halophilus","Halorussus halophilus",NA,NA
-"97","Salinilacihabitans rarus","Salinilacihabitans rarus",NA,NA
-"98","Halogranum roseipondis","Halogranum roseipondis",NA,NA
-"99","Halorussus aquaticus","Halorussus aquaticus",NA,NA
-"100","Halorussus limi","Halorussus limi",NA,NA
-"101","Halorubellus litoreus","Halorubellus litoreus",NA,NA
-"102","Halomarina pelagica","Halomarina pelagica",NA,NA
-"103","Haloarcula pelagica","Haloarcula pelagica",NA,NA
-"104","Natronosalvus amylolyticus","Natronosalvus amylolyticus",NA,NA
-"105","Haloplanus pelagicus","Haloplanus pelagicus",NA,NA
-"106","Natronosalvus halobius","Natronosalvus halobius",NA,NA
-"107","Haloarcula regularis","Haloarcula regularis",NA,NA
-"108","Halorussus caseinilyticus","Halorussus caseinilyticus",NA,NA
-"109","Halalkalicoccus salilacus","Halalkalicoccus salilacus",NA,NA
-"110","Haloplanus rubicundus","Haloplanus rubicundus",NA,NA
-"111","Haloarchaeobius ordinarius","Haloarchaeobius ordinarius",NA,NA
-"112","Halorussus lipolyticus","Halorussus lipolyticus",NA,NA
-"113","Halomicrobium salinisoli","Halomicrobium salinisoli",NA,NA
-"114","Haloarcula marina","Haloarcula marina",NA,NA
-"115","Halomicrobium urmianum","Halomicrobium urmianum",NA,NA
-"116","Haloarcula halobia","Haloarcula halobia",NA,NA
-"117","Natronorubrum aibiense","Natronorubrum aibiense",NA,NA
-"118","Halovenus salina","Halovenus salina",NA,NA
-"119","Halorarum halobium","Halorarum halobium",NA,NA
-"120","Halostagnicola alkaliphila","Halostagnicola alkaliphila",NA,NA
-"121","Halalkaliarchaeum desulfuricum","Halalkaliarchaeum desulfuricum",NA,NA
-"122","Haloarcula litorea","Haloarcula litorea",NA,NA
-"123","Haloplanus rallus","Haloplanus rallus",NA,NA
-"124","Haloplanus salilacus","Haloplanus salilacus",NA,NA
-"125","Haloprofundus salilacus","Haloprofundus salilacus",NA,NA
-"126","Haloprofundus halobius","Haloprofundus halobius",NA,NA
-"127","Natronomonas halophila","Natronomonas halophila",NA,NA
-"128","Natronoarchaeum mannanilyticum","Natronoarchaeum mannanilyticum",NA,NA
-"129","Haloarcula ordinaria","Haloarcula ordinaria",NA,NA
-"130","Salinarchaeum chitinilyticum","Salinarchaeum chitinilyticum",NA,NA
-"131","Halorubrum tibetense","Halorubrum tibetense",NA,NA
-"132","Halorubrum ejinorense","Halorubrum ejinorense",NA,NA
-"133","Haloplanus litoreus","Haloplanus litoreus",NA,NA
-"134","Halomarina litorea","Halomarina litorea",NA,NA
-"135","Halobacterium wangiae","Halobacterium wangiae",NA,NA
-"136","Halobaculum limi","Halobaculum limi",NA,NA
-"137","Natranaeroarchaeum sulfidigenes","Natranaeroarchaeum sulfidigenes",NA,NA
-"138","Haloarcula halophila","Haloarcula halophila",NA,NA
-"139","Halorussus salilacus","Halorussus salilacus",NA,NA
-"140","Haloarcula rara","Haloarcula rara",NA,NA
-"141","Halobaculum lipolyticum","Halobaculum lipolyticum",NA,NA
-"142","Halorubrum ruber","Halorubrum ruber",NA,NA
-"143","Halorussus pelagicus","Halorussus pelagicus",NA,NA
-"144","Haloprofundus salinisoli","Haloprofundus salinisoli",NA,NA
-"145","Haloplanus halophilus","Haloplanus halophilus",NA,NA
-"146","Halobaculum roseum","Halobaculum roseum",NA,NA
-"147","Natrononativus amylolyticus","Natrononativus amylolyticus",NA,NA
-"148","Haloarcula montana","Haloarcula montana",NA,NA
-"149","Halobaculum magnesiiphilum","Halobaculum magnesiiphilum",NA,NA
-"150","Halobaculum rubrum","Halobaculum rubrum",NA,NA
-"151","Halorubrum hochsteinianum","Halorubrum hochsteinianum",NA,NA
-"152","Halobaculum rarum","Halobaculum rarum",NA,NA
-"153","Halomarina halobia","Halomarina halobia",NA,NA
-"154","Halorubrum salinarum","Halorubrum salinarum",NA,NA
-"155","Halalkalicoccus tibetensis","Halalkalicoccus tibetensis",NA,NA
-"156","Salinibaculum rarum","Salinibaculum rarum",NA,NA
-"157","Halobaculum marinum","Halobaculum marinum",NA,NA
-"158","Halopelagius fulvigenes","Halopelagius fulvigenes",NA,NA
-"159","Salinirarus marinus","Salinirarus marinus",NA,NA
-"160","Halobacterium rubrum","Halobacterium rubrum",NA,NA
-"161","Halapricum desulfuricans","Halapricum desulfuricans",NA,NA
-"162","Halomicrococcus gelatinilyticus","Halomicrococcus gelatinilyticus",NA,NA
-"163","Haladaptatus salinisoli","Haladaptatus salinisoli",NA,NA
-"164","Halorubrum yunnanense","Halorubrum yunnanense",NA,NA
-"165","Halobaculum halobium","Halobaculum halobium",NA,NA
-"166","Halorientalis litorea","Halorientalis litorea",NA,NA
-"167","Halobaculum litoreum","Halobaculum litoreum",NA,NA
-"168","Halococcoides cellulosivorans","Halococcoides cellulosivorans",NA,NA
-"169","Halococcus qingdaonensis","Halococcus qingdaonensis",NA,NA
-"170","Halobacterium litoreum","Halobacterium litoreum",NA,NA
-"171","Haloparvum alkalitolerans","Haloparvum alkalitolerans",NA,NA
-"172","Haladaptatus caseinilyticus","Haladaptatus caseinilyticus",NA,NA
-"173","Halosegnis marinus","Halosegnis marinus",NA,NA
-"174","Halopenitus salinus","Halopenitus salinus",NA,NA
-"175","Halobellus inordinatus","Halobellus inordinatus",NA,NA
-"176","Halorubrum pallidum","Halorubrum pallidum",NA,NA
-"177","Halocatena salina","Halocatena salina",NA,NA
-"178","Halobacterium zhouii","Halobacterium zhouii",NA,NA
-"179","Haladaptatus halobius","Haladaptatus halobius",NA,NA
-"180","Natrinema gari","Natrinema gari",11,1
-"181","Halorubrum ezzemoulense","Halorubrum ezzemoulense",NA,NA
-"182","Haloferax gibbonsii","Haloferax gibbonsii",NA,NA
-"183","Haloquadratum walsbyi DSM 16790","Haloquadratum walsbyi",8,3
-"184","Haloferax larsenii","Haloferax larsenii",11,4
-"185","Halopenitus persicus","Halopenitus persicus",NA,NA
-"186","Halococcus saccharolyticus","Halococcus saccharolyticus",4,2
-"187","Natrinema pallidum","Natrinema pallidum",15,2
-"188","Haloterrigena salifodinae","Haloterrigena salifodinae",NA,NA
+,organism_name,organism_cell_line,Tfb_num,Tbp_num
+1,Halosimplex aquaticum,Halosimplex aquaticum,17,2
+2,Halorussus limi,Halorussus limi,16,1
+3,Halosimplex pelagicum,Halosimplex pelagicum,16,4
+4,Halapricum desulfuricans,Halapricum desulfuricans,15,2
+5,Halorubrum salinarum,Halorubrum salinarum,14,3
+6,Halobaculum roseum,Halobaculum roseum,13,3
+7,Halosimplex rubrum,Halosimplex rubrum,13,1
+8,Halocatena salina,Halocatena salina,12,1
+9,Haloferax volcanii,Haloferax volcanii DS2,12,3
+10,Natrinema gari,Natrinema gari,12,1
+11,Halobaculum magnesiiphilum,Halobaculum magnesiiphilum,11,2
+12,Halobium salinum,Halobium salinum,11,2
+13,Halopenitus salinus,Halopenitus salinus,11,3
+14,Haloplanus litoreus,Haloplanus litoreus,11,4
+15,Haloplanus rallus,Haloplanus rallus,11,2
+16,Haloplanus rubicundus,Haloplanus rubicundus,11,2
+17,Halorarum halophilum,Halorarum halophilum,11,3
+18,Halorubellus litoreus,Halorubellus litoreus,11,1
+19,Halorussus aquaticus,Halorussus aquaticus,11,1
+20,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,11,3
+21,Natrinema thermotolerans,Natrinema thermotolerans,11,1
+22,Natronobacterium lacisalsi,Natronobacterium lacisalsi AJ5,11,1
+23,Natronosalvus rutilus,Natronosalvus rutilus,11,1
+24,Salinigranum rubrum,Salinigranum rubrum,11,3
+25,Haladaptatus pallidirubidus,Haladaptatus pallidirubidus,10,3
+26,Haloarcula halophila,Haloarcula halophila,10,2
+27,Halococcus salifodinae,Halococcus salifodinae,10,2
+28,Halomarina halobia,Halomarina halobia,10,2
+29,Haloplanus aerogenes,Haloplanus aerogenes,10,2
+30,Halorarum salinum,Halorarum salinum,10,3
+31,Natrialba aegyptia,Natrialba aegyptia,10,2
+32,Natrinema zhouii,Natrinema zhouii,10,3
+33,Natronoarchaeum mannanilyticum,Natronoarchaeum mannanilyticum,10,1
+34,Halanaeroarchaeum sulfurireducens,Halanaeroarchaeum sulfurireducens,9,1
+35,Halapricum salinum,Halapricum salinum,9,1
+36,Haloarcula argentinensis,Haloarcula argentinensis,9,1
+37,Haloarcula marismortui,Haloarcula marismortui ATCC 43049,9,1
+38,Halobaculum halobium,Halobaculum halobium,9,2
+39,Halorubrum ejinorense,Halorubrum ejinorense,9,2
+40,Halorubrum ezzemoulense,Halorubrum ezzemoulense,9,2
+41,Halorubrum pallidum,Halorubrum pallidum,9,2
+42,Halosimplex litoreum,Halosimplex litoreum,9,1
+43,Haloterrigena salifodinae,Haloterrigena salifodinae,9,2
+44,Natrinema longum,Natrinema longum,9,1
+45,Natrinema pallidum,Natrinema pallidum,9,1
+46,Natronococcus occultus,Natronococcus occultus SP4,9,3
+47,Natronorubrum aibiense,Natronorubrum aibiense,9,2
+48,Salarchaeum japonicum,Salarchaeum japonicum,9,2
+49,Halalkalicoccus tibetensis,Halalkalicoccus tibetensis,8,4
+50,Haloarcula hispanica,Haloarcula hispanica ATCC 33960,8,1
+51,Halococcus dombrowskii,Halococcus dombrowskii,8,6
+52,Haloferax larsenii,Haloferax larsenii,8,4
+53,Haloferax mediterranei,Haloferax mediterranei ATCC 33500,8,4
+54,Halohasta litchfieldiae,Halohasta litchfieldiae,8,5
+55,Halopelagius fulvigenes,Halopelagius fulvigenes,8,2
+56,Haloquadratum walsbyi,Haloquadratum walsbyi DSM 16790,8,2
+57,Halorubrum lacusprofundi,Halorubrum lacusprofundi ATCC 49239,8,4
+58,Halorubrum tibetense,Halorubrum tibetense,8,2
+59,Halorubrum yunnanense,Halorubrum yunnanense,8,3
+60,Halosegnis marinus,Halosegnis marinus,8,2
+61,Natrarchaeobaculum aegyptiacum,Natrarchaeobaculum aegyptiacum,8,1
+62,Natronorubrum bangense,Natronorubrum bangense,8,1
+63,Salinirubellus salinus,Salinirubellus salinus,8,1
+64,Halalkaliarchaeum desulfuricum,Halalkaliarchaeum desulfuricum,7,4
+65,Halobacterium litoreum,Halobacterium litoreum,7,2
+66,Halobacterium salinarum,Halobacterium salinarum,7,5
+67,Halobaculum lipolyticum,Halobaculum lipolyticum,7,2
+68,Halobaculum marinum,Halobaculum marinum,7,2
+69,Haloferax gibbonsii,Haloferax gibbonsii,7,3
+70,Halogeometricum borinquense,Halogeometricum borinquense DSM 11551,7,3
+71,Halopiger xanaduensis,Halopiger xanaduensis SH-6,7,1
+72,Halorubrum ruber,Halorubrum ruber,7,2
+73,Halorussus caseinilyticus,Halorussus caseinilyticus,7,1
+74,Halostagnicola larsenii,Halostagnicola larsenii XH-48,7,2
+75,Haloterrigena alkaliphila,Haloterrigena alkaliphila,7,2
+76,Halovenus rubra,Halovenus rubra,7,3
+77,Natranaeroarchaeum sulfidigenes,Natranaeroarchaeum sulfidigenes,7,1
+78,Natrarchaeobaculum sulfurireducens,Natrarchaeobaculum sulfurireducens,7,1
+79,Natrinema halophilum,Natrinema halophilum,7,2
+80,Natronomonas pharaonis,Natronomonas pharaonis DSM 2160,7,1
+81,Natronorubrum daqingense,Natronorubrum daqingense,7,1
+82,Halobacterium hubeiense,Halobacterium hubeiense,6,4
+83,Halococcoides cellulosivorans,Halococcoides cellulosivorans,6,1
+84,Halococcus saccharolyticus,Halococcus saccharolyticus,6,2
+85,Halopenitus persicus,Halopenitus persicus,6,2
+86,Halorhabdus tiamatea,Halorhabdus tiamatea SARL4B,6,2
+87,Halorhabdus utahensis,Halorhabdus utahensis DSM 12940,6,2
+88,Halorussus gelatinilyticus,Halorussus gelatinilyticus,6,1
+89,Halovenus salina,Halovenus salina,6,3
+90,Halovivax cerinus,Halovivax cerinus,6,1
+91,Natrialba magadii,Natrialba magadii ATCC 43099,6,1
+92,Natronobacterium gregoryi,Natronobacterium gregoryi SP2,6,3
+93,Natronomonas moolapensis,Natronomonas moolapensis 8.8.11,6,3
+94,Halalkalicoccus jeotgali,Halalkalicoccus jeotgali B3,5,1
+95,Haloarcula pelagica,Haloarcula pelagica,5,1
+96,Halococcus morrhuae,Halococcus morrhuae DSM 1307,5,2
+97,Haloterrigena turkmenica,Haloterrigena turkmenica DSM 5511,5,1
+98,Halovivax ruber,Halovivax ruber XH-70,5,1
+99,Halomicrobium mukohataei,Halomicrobium mukohataei DSM 12286,4,1
+100,Halobaculum litoreum,Halobaculum litoreum,3,NA
+101,Halodesulfurarchaeum formicicum,Halodesulfurarchaeum formicicum,3,1
+102,Salinibaculum marinum,Salinibaculum marinum,3,1
+103,Haloarcula nitratireducens,Haloarcula nitratireducens,10,9
+104,Haloferax profundi,Haloferax profundi,6,6
+105,Natrinema soli,Natrinema soli,6,6
+106,Saliphagus infecundisoli,Saliphagus infecundisoli,11,6
+107,Halogeometricum luteum,Halogeometricum luteum,10,5
+108,Halonotius terrestris,Halonotius terrestris,12,5
+109,Halorubrum laminariae,Halorubrum laminariae,7,5
+110,Halorubrum trueperi,Halorubrum trueperi,11,5
+111,Natrinema salsiterrestre,Natrinema salsiterrestre,11,5
+112,Natronococcus jeotgali,Natronococcus jeotgali,7,5
+113,Natronorubrum thiooxidans,Natronorubrum thiooxidans,9,5
+114,Halobellus clavatus,Halobellus clavatus,9,4
+115,Haloferax chudinovii,Haloferax chudinovii,9,4
+116,Haloferax denitrificans,Haloferax denitrificans,6,4
+117,Haloferax elongans,Haloferax elongans,7,4
+118,Haloferax litoreum,Haloferax litoreum,7,4
+119,Haloferax marisrubri,Haloferax marisrubri,7,4
+120,Haloferax mucosum,Haloferax mucosum,7,4
+121,Halohasta litorea,Halohasta litorea,8,4
+122,Halolamina pelagica,Halolamina pelagica,6,4
+123,Haloplanus salinus,Haloplanus salinus,7,4
+124,Halorientalis persicus,Halorientalis persicus,8,4
+125,Halorubrum glutamatedens,Halorubrum glutamatedens,7,4
+126,Halorubrum vacuolatum,Halorubrum vacuolatum,5,4
+127,Halosegnis rubeus,Halosegnis rubeus,7,4
+128,Natronocalculus amylovorans,Natronocalculus amylovorans,6,4
+129,Halalkalicoccus paucihalophilus,Halalkalicoccus paucihalophilus,4,3
+130,Haloarcula japonica,Haloarcula japonica,7,3
+131,Haloarcula limicola,Haloarcula limicola,7,3
+132,Haloarcula rubra,Haloarcula rubra,9,3
+133,Haloarcula salinisoli,Haloarcula salinisoli,9,3
+134,Halobaculum saliterrae,Halobaculum saliterrae,9,3
+135,Halobellus rarus,Halobellus rarus,7,3
+136,Halobium palmae,Halobium palmae,4,3
+137,Haloferax marinisediminis,Haloferax marinisediminis,6,3
+138,Haloferax marinum,Haloferax marinum,7,3
+139,Haloferax massiliensis,Haloferax massiliensis,6,3
+140,Haloferax namakaokahaiae,Haloferax namakaokahaiae,7,3
+141,Haloferax prahovense,Haloferax prahovense,7,3
+142,Haloferax sulfurifontis,Haloferax sulfurifontis,7,3
+143,Halogeometricum limi,Halogeometricum limi,7,3
+144,Halogeometricum salsisoli,Halogeometricum salsisoli,12,3
+145,Halogranum amylolyticum,Halogranum amylolyticum,13,3
+146,Halogranum rubrum,Halogranum rubrum,14,3
+147,Halonotius pteroides,Halonotius pteroides,6,3
+148,Haloplanus vescus,Haloplanus vescus,10,3
+149,Halorientalis pallida,Halorientalis pallida,6,3
+150,Halorientalis regularis,Halorientalis regularis,7,3
+151,Halorubrum cibi,Halorubrum cibi,5,3
+152,Halorubrum persicum,Halorubrum persicum,8,3
+153,Halorubrum saccharovorum,Halorubrum saccharovorum,6,3
+154,Halorubrum salipaludis,Halorubrum salipaludis,8,3
+155,Halorubrum trapanicum,Halorubrum trapanicum,9,3
+156,Halospeciosus flavus,Halospeciosus flavus,10,3
+157,Halostagnicola kamekurae,Halostagnicola kamekurae,9,3
+158,Natranaeroarchaeum aerophilus,Natranaeroarchaeum aerophilus,6,3
+159,Natrinema altunense,Natrinema altunense,7,3
+160,Natronorubrum tibetense,Natronorubrum tibetense,9,3
+161,Candidatus Halobonum,Candidatus Halobonum,9,2
+162,Haladaptatus litoreus,Haladaptatus litoreus,8,2
+163,Haloarchaeobius amylolyticus,Haloarchaeobius amylolyticus,6,2
+164,Haloarcula onubensis,Haloarcula onubensis,11,2
+165,Haloarcula pellucida,Haloarcula pellucida,6,2
+166,Haloarcula terrestris,Haloarcula terrestris,8,2
+167,Halobacterium jilantaiense,Halobacterium jilantaiense,5,2
+168,Halobaculum gomorrense,Halobaculum gomorrense,5,2
+169,Halobellus limi,Halobellus limi,7,2
+170,Halobellus litoreus,Halobellus litoreus,6,2
+171,Halobellus ruber,Halobellus ruber,8,2
+172,Halobellus rubicundus,Halobellus rubicundus,7,2
+173,Halobellus salinus,Halobellus salinus,7,2
+174,Halococcus hamelinensis,Halococcus hamelinensis,4,2
+175,Halococcus thailandensis,Halococcus thailandensis,6,2
+176,Halogeometricum pallidum,Halogeometricum pallidum,13,2
+177,Halogeometricum rufum,Halogeometricum rufum,7,2
+178,Halogranum gelatinilyticum,Halogranum gelatinilyticum,11,2
+179,Halolamina litorea,Halolamina litorea,6,2
+180,Halolamina salifodinae,Halolamina salifodinae,5,2
+181,Halolamina salina,Halolamina salina,4,2
+182,Halomarina ordinaria,Halomarina ordinaria,9,2
+183,Halomarina salina,Halomarina salina,7,2
+184,Halonotius aquaticus,Halonotius aquaticus,5,2
+185,Halonotius roseus,Halonotius roseus,5,2
+186,Halopelagius inordinatus,Halopelagius inordinatus,7,2
+187,Halopelagius longus,Halopelagius longus,8,2
+188,Halopenitus malekzadehii,Halopenitus malekzadehii,7,2
+189,Haloplanus ruber,Haloplanus ruber,7,2
+190,Haloprofundus marisrubri,Haloprofundus marisrubri,8,2
+191,Halorubrum aidingense,Halorubrum aidingense,5,2
+192,Halorubrum alkaliphilum,Halorubrum alkaliphilum,6,2
+193,Halorubrum aquaticum,Halorubrum aquaticum,6,2
+194,Halorubrum californiense,Halorubrum californiense,5,2
+195,Halorubrum coriense,Halorubrum coriense,6,2
+196,Halorubrum distributum,Halorubrum distributum,5,2
+197,Halorubrum halodurans,Halorubrum halodurans,4,2
+198,Halorubrum hochstenium,Halorubrum hochstenium,7,2
+199,Halorubrum kocurii,Halorubrum kocurii,2,2
+200,Halorubrum lipolyticum,Halorubrum lipolyticum,5,2
+201,Halorubrum miltondacostae,Halorubrum miltondacostae,14,2
+202,Halorubrum rubrum,Halorubrum rubrum,5,2
+203,Halorubrum rutilum,Halorubrum rutilum,6,2
+204,Halorubrum saccharovorum,Halorubrum saccharovorum,9,2
+205,Halorubrum sodomense,Halorubrum sodomense,5,2
+206,Halorubrum tebenquichense,Halorubrum tebenquichense,4,2
+207,Halorubrum tropicale,Halorubrum tropicale,6,2
+208,Halorubrum xinjiangense,Halorubrum xinjiangense,6,2
+209,Natrarchaeobius oligotrophus,Natrarchaeobius oligotrophus,4,2
+210,Natrialba swarupiae,Natrialba swarupiae,6,2
+211,Natrialba taiwanensis,Natrialba taiwanensis,8,2
+212,Natrinema hispanicum,Natrinema hispanicum,7,2
+213,Natrinema limicola,Natrinema limicola,6,2
+214,Natronobacterium haloterrestre,Natronobacterium haloterrestre,8,2
+215,Natronococcus amylolyticus,Natronococcus amylolyticus,9,2
+216,Natronococcus pandeyae,Natronococcus pandeyae,7,2
+217,Natronoglomus mannanivorans,Natronoglomus mannanivorans,7,2
+218,Natronomonas aquatica,Natronomonas aquatica,5,2
+219,Natronorubrum sediminis,Natronorubrum sediminis,7,2
+220,Natronosalvus hydrolyticus,Natronosalvus hydrolyticus,8,2
+221,Salinadaptatus halalkaliphilus,Salinadaptatus halalkaliphilus,8,2
+222,Haladaptatus paucihalophilus,Haladaptatus paucihalophilus,8,1
+223,Halapricum hydrolyticum,Halapricum hydrolyticum,8,1
+224,Halarchaeum acidiphilum,Halarchaeum acidiphilum,6,1
+225,Halarchaeum grantii,Halarchaeum grantii,7,1
+226,Halarchaeum nitratireducens,Halarchaeum nitratireducens,7,1
+227,Halarchaeum rubridurum,Halarchaeum rubridurum,10,1
+228,Halarchaeum salinum,Halarchaeum salinum,11,1
+229,Haloarchaeobius iranensis,Haloarchaeobius iranensis,8,1
+230,Haloarchaeobius litoreus,Haloarchaeobius litoreus,10,1
+231,Haloarcula amylolytica,Haloarcula amylolytica,7,1
+232,Haloarcula mannanilytica,Haloarcula mannanilytica,9,1
+233,Haloarcula quadrata,Haloarcula quadrata,7,1
+234,Haloarcula rubripromontorii,Haloarcula rubripromontorii,6,1
+235,Haloarcula salina,Haloarcula salina,6,1
+236,Haloarcula saliterrae,Haloarcula saliterrae,7,1
+237,Haloarcula sebkhae,Haloarcula sebkhae,7,1
+238,Haloarcula taiwanensis,Haloarcula taiwanensis,6,1
+239,Haloarcula vallismortis,Haloarcula vallismortis,7,1
+240,Halobacterium bonnevillei,Halobacterium bonnevillei,3,1
+241,Halobellus marinus,Halobellus marinus,NA,1
+242,Halobiforma nitratireducens,Halobiforma nitratireducens,6,1
+243,Halocalculus aciditolerans,Halocalculus aciditolerans,8,1
+244,Halocatena marina,Halocatena marina,8,1
+245,Halocatena pleomorpha,Halocatena pleomorpha,10,1
+246,Haloglomus irregulare,Haloglomus irregulare,6,1
+247,Halomarina oriensis,Halomarina oriensis,7,1
+248,Halomarina rubra,Halomarina rubra,7,1
+249,Halomicrobium zhouii,Halomicrobium zhouii,6,1
+250,Halopiger aswanensis,Halopiger aswanensis,8,1
+251,Halorientalis brevis,Halorientalis brevis,8,1
+252,Halosegnis longus,Halosegnis longus,8,1
+253,Halosimplex carlsbadense,Halosimplex carlsbadense,7,1
+254,Halosolutus amylolyticus,Halosolutus amylolyticus,5,1
+255,Haloterrigena gelatinilytica,Haloterrigena gelatinilytica,6,1
+256,Haloterrigena salina,Haloterrigena salina,5,1
+257,Halovenus aranensis,Halovenus aranensis,5,1
+258,Halovenus carboxidivorans,Halovenus carboxidivorans,6,1
+259,Halovivax asiaticus,Halovivax asiaticus,4,1
+260,Natrarchaeobius chitinivorans,Natrarchaeobius chitinivorans,8,1
+261,Natrarchaeobius halalkaliphilus,Natrarchaeobius halalkaliphilus,7,1
+262,Natrialba asiatica,Natrialba asiatica,6,1
+263,Natrialba chahannaoensis,Natrialba chahannaoensis,5,1
+264,Natrialba hulunbeirensis,Natrialba hulunbeirensis,6,1
+265,Natrinema ejinorense,Natrinema ejinorense,7,1
+266,Natrinema saccharevitans,Natrinema saccharevitans,8,1
+267,Natrinema salaciae,Natrinema salaciae,8,1
+268,Natrinema salifodinae,Natrinema salifodinae,6,1
+269,Natrinema versiforme,Natrinema versiforme,6,1
+270,Natronoarchaeum philippinense,Natronoarchaeum philippinense,6,1
+271,Natronobacterium texcoconense,Natronobacterium texcoconense,7,1
+272,Natronolimnobius baerhuensis,Natronolimnobius baerhuensis,6,1
+273,Natronolimnohabitans innermongolicus,Natronolimnohabitans innermongolicus,6,1
+274,Natronomonas salsuginis,Natronomonas salsuginis,7,1
+275,Natronorubrum halalkaliphilum,Natronorubrum halalkaliphilum,7,1
+276,Natronorubrum sulfidifaciens,Natronorubrum sulfidifaciens,7,1
+277,Natronorubrum texcoconense,Natronorubrum texcoconense,7,1
+278,Salinirubrum litoreum,Salinirubrum litoreum,7,1
