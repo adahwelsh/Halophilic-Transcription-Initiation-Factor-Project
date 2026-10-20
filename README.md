@@ -20,7 +20,7 @@ A list of all Halophiles in this project and their number of TFB and TBP protein
 * `TFB Number` : Number of Transcription Initiation Factor IIB (TFB) protein homologs found in an organism's genome.
 * `TBP Number` : Number of TATA-Box Binding Protein (TBP) homologs found in an organism's genome
 
-## Halobacteriales_TFB_db_v1
+## Halobacteriales_protein_ALL_db_v1
 Combined list of all TFB and TBP protein sequences and information for halobacteriales species. All acquired from Uniprot 10/8/26 (tfbs) and 10/9/26 (tbps)
 * `Entry` : Name of Entry
 * `Reviewed` : Has this protein seqeunce been reviewed?
